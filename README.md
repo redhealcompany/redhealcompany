@@ -11,21 +11,20 @@ A Korean fintech company providing algorithmic trading solutions for stocks and 
 We are building a utility-first Web3 investment ecosystem where proven trading tools are accessed through a REDH token membership.
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — Korea 2026-09-10
+## Latest Daily Record — US session 2026-09-09
 
-<p align="center"><img src="records/cards/card_20260910.png" alt="Korea 2026-09-10" width="720"></p>
+<p align="center"><img src="records/cards/card_us_20260909.png" alt="US session 2026-09-09" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading | Sep 10, 2026
-Today +KRW 1,001,529 | 2 closed (TP 2/SL 0/EOD 0)
-흥아해운 +KRW 659,590 (+2.42%) TP
-SFA반도체 +KRW 341,939 (+2.45%) TP
-Since Sep 9 (current rules) +KRW 1,581,290
-Balance KRW 102,799,415 (+2.80% since Aug 24)
-Not investment advice.
+REDHEAL Auto-Trading US | Session Sep 09, 2026
+Session +KRW 350,378 | 1 closed (TP 0/SL 0/EOD 1)
+SK hynix Inc. SKHY +KRW 350,378 (+1.65%) EOD
+Since Sep 9 (current rules) +KRW 350,378
+Balance KRW 96,721,212 (-3.28% since Aug 31)
+Not investment advice. redheal.io
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2097909498472268219) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2097909216518521122) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial). All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
