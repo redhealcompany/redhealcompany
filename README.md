@@ -1,4 +1,9 @@
-<p align="center"><img src="assets/redheal_logo.png" alt="REDHEAL" width="420"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/redheal_logo_white.png">
+    <img src="assets/redheal_logo_dark.png" alt="REDHEAL" width="420">
+  </picture>
+</p>
 
 # REDHEAL COMPANY
 
