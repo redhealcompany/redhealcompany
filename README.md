@@ -7,8 +7,12 @@
 
 # REDHEAL COMPANY
 
-A Korean fintech company providing algorithmic trading solutions for stocks and digital assets since 2018.
-We are building a utility-first Web3 investment ecosystem where proven trading tools are accessed through a REDH token membership.
+REDHEAL COMPANY pursues two lines of business: the **investment automation** business we have built since 2018, and an **assistant-type AI platform** for individuals and companies that is now under development. The two are run as separate businesses with separate services.
+
+| Line of business | What it is | Status |
+|---|---|---|
+| Investment Automation (TRADING) | Stock algorithmic auto-trading (Korea first, extending to the US), crypto futures quant, surge-stock screener, real-time signals, insight & reports. Connected to the REDH membership. | Building and validating on real records |
+| REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
 ## Latest Daily Record — Korea 2026-09-10
@@ -30,7 +34,7 @@ Not investment advice.
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
 
-## Four Services
+## Investment Automation — Four Services
 
 | Service | What it does |
 |---|---|
@@ -38,6 +42,17 @@ Every trading day we publish the actual results of our auto-trading system — t
 | Stock Auto-Trading | Algorithmic auto-trading engine for Korean and US equities |
 | Crypto Futures Quant | Volatility-breakout and trend-following strategy bots |
 | Expert Insight | Market commentary and daily reports |
+
+## REDHEAL AI Platform (beta development)
+
+An AI that finds what matters before you say a word. Not a chatbot that answers only when asked: within the information and permissions the user has granted, it aims to understand schedules, conversations, records, and workflows, learn over time what matters, and propose in advance what should be checked or handled now. Every proposal is meant to state what happened, why it matters, what to do now, and what the judgment is based on.
+
+- **REDHEAL PERSONAL** — a personal AI assistant that, within the permitted scope, keeps track of a person's day and surfaces easily missed tasks and next actions.
+- **REDHEAL BUSINESS** — a management-support AI command center that brings together sales, accounts, quotes, work progress, and external changes, and proposes the opportunities and risks an executive should personally review. It does not make decisions on the executive's behalf.
+
+Shared core: capture → event recognition → memory → context → reasoning → opportunity/risk detection → action proposal or execution support → result verification → learning. Voice-first, permission-scoped, with verifiable records. Unverified content is never stated as fact.
+
+**Status**: in beta development; limited validation planned with a first enterprise customer. Use cases above are illustrative, not current results. The AI Platform is a business separate from the REDH token and the investment automation services. Full description: https://redheal.io/#aiplatform
 
 ## REDH Token
 
