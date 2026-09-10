@@ -6,9 +6,20 @@ A Korean fintech company providing algorithmic trading solutions for stocks and 
 We are building a utility-first Web3 investment ecosystem where proven trading tools are accessed through a REDH token membership.
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record
+## Latest Daily Record — US session 2026-09-09
 
-_No record published yet._
+<p align="center"><img src="records/cards/card_us_20260909.png" alt="US session 2026-09-09" width="720"></p>
+
+```text
+REDHEAL Auto-Trading US | Session Sep 09, 2026
+Session +KRW 350,378 | 1 closed (TP 0/SL 0/EOD 1)
+SK hynix Inc. SKHY +KRW 350,378 (+1.65%) EOD
+Since Sep 9 (current rules) +KRW 350,378
+Balance KRW 96,721,212 (-3.28% since Aug 31)
+Not investment advice. redheal.io
+```
+
+[View on X](https://x.com/RedhealOfficial/status/2097909216518521122) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial). All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
