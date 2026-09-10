@@ -45,6 +45,8 @@ Every trading day we publish the actual results of our auto-trading system — t
 
 ## REDHEAL AI Platform (beta development)
 
+<p align="center"><img src="assets/ai_platform_intro.png" alt="REDHEAL AI Platform" width="720"></p>
+
 An AI that finds what matters before you say a word. Not a chatbot that answers only when asked: within the information and permissions the user has granted, it aims to understand schedules, conversations, records, and workflows, learn over time what matters, and propose in advance what should be checked or handled now. Every proposal is meant to state what happened, why it matters, what to do now, and what the judgment is based on.
 
 - **REDHEAL PERSONAL** — a personal AI assistant that, within the permitted scope, keeps track of a person's day and surfaces easily missed tasks and next actions.
@@ -52,7 +54,7 @@ An AI that finds what matters before you say a word. Not a chatbot that answers 
 
 Shared core: capture → event recognition → memory → context → reasoning → opportunity/risk detection → action proposal or execution support → result verification → learning. Voice-first, permission-scoped, with verifiable records. Unverified content is never stated as fact.
 
-**Status**: in beta development; limited validation planned with a first enterprise customer. Use cases above are illustrative, not current results. The AI Platform is a business separate from the REDH token and the investment automation services. Full description: https://redheal.io/#aiplatform
+**Status**: in beta development; limited validation planned with a first enterprise customer. Use cases above are illustrative, not current results. The AI Platform is a business separate from the REDH token and the investment automation services. Full description: https://redheal.io/#aiplatform · [Announcement on X](https://x.com/RedhealOfficial/status/2097946948926165454)
 
 ## REDH Token
 
