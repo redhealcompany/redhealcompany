@@ -28,7 +28,7 @@ Not investment advice.
 [View on X](https://x.com/RedhealOfficial/status/2097909498472268219) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
-Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial). All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
+Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
 
 ## Four Services
 
@@ -57,5 +57,6 @@ REDH is a utility token for accessing services. It carries no profit-sharing or 
 - White Paper: https://redheal.gitbook.io/whitepaper
 - Website: https://redheal.io · Wallet: https://redheal.io/wallet/
 - Token Repository: https://github.com/redhealcompany/Redheal
-- Telegram: https://t.me/redheal_official_chat · X: https://x.com/RedhealOfficial
+- Telegram (daily records, morning briefing, live signals): https://t.me/redheal_official_chat
+- X: https://x.com/RedhealOfficial
 - Contact: redhealcompany@gmail.com
