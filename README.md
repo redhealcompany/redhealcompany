@@ -15,20 +15,19 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — Korea 2026-09-14
+## Latest Daily Record — US session 2026-09-14
 
-<p align="center"><img src="records/cards/card_20260914.png" alt="Korea 2026-09-14" width="720"></p>
+<p align="center"><img src="records/cards/card_us_20260914.png" alt="US session 2026-09-14" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading | Sep 14, 2026
-Today +KRW 226,229 | 1 closed (TP 1/SL 0/EOD 0)
-금강철강 +KRW 226,229 (+2.55%) TP
-Since Sep 9 (current rules) +KRW 1,781,922
-Balance KRW 103,000,047 (+3.00% since Aug 24)
-Not investment advice. redheal.io
+REDHEAL Auto-Trading US | Session Sep 14, 2026
+Session +KRW 3,272,908 | 6 closed (TP 5/SL 0/EOD 1)
+CrowdStrike Holdings, Inc. CRWD +KRW 508,860 (+2.50%) TP
+ServiceNow, Inc. NOW +KRW 407,598 (+1.83%) EOD
+Not investment advice.
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2099399036872847494) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2099611679172813006) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
