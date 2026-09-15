@@ -21,7 +21,7 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 
 ```text
 REDHEAL Auto-Trading | Sep 15, 2026
-Today +KRW 646,658 | 10 closed (TP 6/SL 1/EOD 3)
+Today +KRW 646,658 | 10 closed (TP 6/SL 1/EOD 0/Manual 3)
 광전자 +KRW 65,665 (+2.52%) TP
 JW신약 +KRW 139,910 (+2.57%) TP
 한싹 +KRW 642,748 (+2.60%) TP
@@ -30,7 +30,7 @@ JW신약 +KRW 139,910 (+2.57%) TP
 Not investment advice.
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2099761404194828295) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2099775411001659447) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
