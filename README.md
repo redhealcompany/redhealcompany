@@ -15,20 +15,22 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — US session 2026-09-16
+## Latest Daily Record — Korea 2026-09-17
 
-<p align="center"><img src="records/cards/card_us_20260916.png" alt="US session 2026-09-16" width="720"></p>
+<p align="center"><img src="records/cards/card_20260917.png" alt="Korea 2026-09-17" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading US | Session Sep 16, 2026
-Session -KRW 439,245 | 5 closed (TP 1/SL 1/EOD 3)
-Dell Technologies Inc. DELL -KRW 740,253 (-1.63%) EOD
-Semtech Corporation SMTC +KRW 412,066 (+2.50%) TP
-Future FinTech Group Inc. FTFT -KRW 20,349 (-6.22%) SL
+REDHEAL Auto-Trading | Sep 17, 2026
+Today -KRW 1,992,106 | 6 closed (TP 3/SL 2/EOD 1)
+드림텍 +KRW 465,418 (+2.59%) TP
+에이팩트 +KRW 22,227 (+2.53%) TP
+뷰티스킨 +KRW 347,405 (+2.64%) TP
+JW신약 -KRW 1,533,314 (-4.19%) SL
++2 more (see image)
 Not investment advice.
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2100336453410820179) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2100486184736874515) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
