@@ -15,20 +15,22 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — US session 2026-09-17
+## Latest Daily Record — Korea 2026-09-18
 
-<p align="center"><img src="records/cards/card_us_20260917.png" alt="US session 2026-09-17" width="720"></p>
+<p align="center"><img src="records/cards/card_20260918.png" alt="Korea 2026-09-18" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading US | Session Sep 17, 2026
-Session +KRW 49,620 | 5 closed (TP 3/SL 0/EOD 2)
-Marvell Technology, Inc. MRVL +KRW 632,298 (+2.50%) TP
-Forgent Power Solutions, Inc. FPS +KRW 189,850 (+2.50%) TP
-Moderna, Inc. MRNA +KRW 632,714 (+2.50%) TP
+REDHEAL Auto-Trading | Sep 18, 2026
+Today +KRW 878,915 | 5 closed (TP 3/SL 0/EOD 0/Manual 2)
+가온전선 +KRW 729,816 (+2.64%) TP
+RFHIC +KRW 700,929 (+2.55%) TP
+삼화콘덴서 -KRW 844,237 (-2.12%) Manual
+쏠리드 +KRW 703,404 (+2.55%) TP
++1 more (see image)
 Not investment advice.
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2100698846049468645) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2100848574284361756) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
