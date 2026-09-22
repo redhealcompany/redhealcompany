@@ -15,21 +15,20 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — Korea 2026-09-22
+## Latest Daily Record — US session 2026-09-22
 
-<p align="center"><img src="records/cards/card_20260922.png" alt="Korea 2026-09-22" width="720"></p>
+<p align="center"><img src="records/cards/card_us_20260922.png" alt="US session 2026-09-22" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading | Sep 22, 2026
-Today +KRW 3,192,606 | 3 closed (TP 3/SL 0/EOD 0)
-삼화콘덴서 +KRW 1,048,975 (+2.54%) TP
-대원전선 +KRW 1,045,112 (+2.53%) TP
-대한항공 +KRW 1,098,519 (+2.64%) TP
-Since Sep 9 (current rules) +KRW 2,116,626
+REDHEAL Auto-Trading US | Session Sep 22, 2026
+Session -KRW 1,293,321 | 2 closed (TP 1/SL 1/EOD 0)
+Sandisk Corporation SNDK +KRW 785,445 (+2.50%) TP
+Nebius Group N.V. NBIS -KRW 2,078,766 (-3.98%) SL
+Since Sep 9 (current rules) +KRW 3,100,939
 Not investment advice.
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2102298122605228233) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2102510777509036318) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
