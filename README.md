@@ -15,21 +15,20 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — Korea 2026-09-23
+## Latest Daily Record — US session 2026-09-23
 
-<p align="center"><img src="records/cards/card_20260923.png" alt="Korea 2026-09-23" width="720"></p>
+<p align="center"><img src="records/cards/card_us_20260923.png" alt="US session 2026-09-23" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading | Sep 23, 2026
-Today -KRW 877,716 | 2 closed (TP 0/SL 0/EOD 2)
-SK이노베이션 +KRW 171,884 (+0.77%) EOD
-테크윙 -KRW 1,049,600 (-1.90%) EOD
-Since Sep 9 (current rules) +KRW 1,238,910
-Balance KRW 102,546,502 (+2.55% since Aug 24)
-Not investment advice.
+REDHEAL Auto-Trading US | Session Sep 23, 2026
+Session -KRW 2,327,955 | 1 closed (TP 0/SL 1/EOD 0)
+Moderna, Inc. MRNA -KRW 2,327,955 (-4.00%) SL
+Since Sep 9 (current rules) +KRW 772,984
+Balance KRW 97,143,818 (-2.86% since Aug 31)
+Not investment advice. redheal.io
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2102660509455753500) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2102873163742986724) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
