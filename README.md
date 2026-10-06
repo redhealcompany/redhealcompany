@@ -15,20 +15,20 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — Korea 2026-10-06
+## Latest Daily Record — US session 2026-10-06
 
-<p align="center"><img src="records/cards/card_20261006.png" alt="Korea 2026-10-06" width="720"></p>
+<p align="center"><img src="records/cards/card_us_20261006.png" alt="US session 2026-10-06" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading | Oct 06, 2026
-Today +KRW 793,026 | 5 closed (TP 0/SL 1/EOD 4)
-우리로 +KRW 176,898 (+2.19%) TRAIL_2.5_1.2
-SFA반도체 +KRW 538,199 (+1.48%) TRAIL_2.5_1.2
-주성엔지니어링 +KRW 1,413,328 (+3.04%) TRAIL_2.5_1.2
+REDHEAL Auto-Trading US | Session Oct 06, 2026
+Session -KRW 3,417,703 | 2 closed (TP 0/SL 1/EOD 1)
+Rocket Lab Corporation RKLB -KRW 2,218,083 (-3.95%) SL
+Palo Alto Networks, Inc. PANW -KRW 1,199,620 (-1.80%) EOD
+Since Sep 9 (current rules) -KRW 1,764,811
 Not investment advice.
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2107371561510748297) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2107584214841635069) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
