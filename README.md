@@ -15,19 +15,20 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — US session 2026-10-08
+## Latest Daily Record — Korea 2026-10-09
 
-<p align="center"><img src="records/cards/card_us_20261008.png" alt="US session 2026-10-08" width="720"></p>
+<p align="center"><img src="records/cards/card_20261009.png" alt="Korea 2026-10-09" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading US | Session Oct 08, 2026
-No trades closed (entry conditions not met)
-Indices S&P 500 -0.47% | NASDAQ -1.25%
-· Treasury yields are lower after reaching multiyear highs, trader
+REDHEAL Auto-Trading | Oct 09, 2026
+No trades closed today (entry conditions not met)
+Since Sep 9 (current rules) +KRW 1,724,260
+Indices S&P 500 -0.47%
+· 삼성전자 영업익 107조인데 코스피 2.62% 하락…왜?
 Not investment advice. redheal.io
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2108308998554550600) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2108458804816040164) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
