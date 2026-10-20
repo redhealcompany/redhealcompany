@@ -15,20 +15,20 @@ REDHEAL COMPANY pursues two lines of business: the **investment automation** bus
 | REDHEAL AI Platform | Assistant-type AI for individuals (REDHEAL PERSONAL) and executives (REDHEAL BUSINESS). Independent of the REDH token and of the trading services. | Beta development |
 
 <!-- DAILY_RECORD:START -->
-## Latest Daily Record — US session 2026-10-19
+## Latest Daily Record — Korea 2026-10-20
 
-<p align="center"><img src="records/cards/card_us_20261019.png" alt="US session 2026-10-19" width="720"></p>
+<p align="center"><img src="records/cards/card_20261020.png" alt="Korea 2026-10-20" width="720"></p>
 
 ```text
-REDHEAL Auto-Trading US | Session Oct 19, 2026
-Session -KRW 210,239 | 1 closed (TP 0/SL 1/EOD 0)
-Atlantic American Corporation AAME -KRW 210,239 (-11.10%) SL
-Since Sep 9 (current rules) -KRW 3,225,936
-Balance KRW 93,144,898 (-6.86% since Aug 31)
-Not investment advice.
+REDHEAL Auto-Trading | Oct 20, 2026
+Today -KRW 2,094,896 | 1 closed (TP 0/SL 1/EOD 0)
+우리로 -KRW 2,094,896 (-3.99%) SL
+Since Sep 9 (current rules) -KRW 2,161,997
+Balance KRW 99,145,595 (-0.85% since Aug 24)
+Not investment advice. redheal.io
 ```
 
-[View on X](https://x.com/RedhealOfficial/status/2112295246134714772) · [All records](records/)
+[View on X](https://x.com/RedhealOfficial/status/2112444982724546576) · [All records](records/)
 <!-- DAILY_RECORD:END -->
 
 Every trading day we publish the actual results of our auto-trading system — the same post that goes to [X (@RedhealOfficial)](https://x.com/RedhealOfficial) and our Telegram channel [Redheal Official Chat](https://t.me/redheal_official_chat) and [Discord](https://discord.gg/8XzM9P5Jz), where the morning market briefing and real-time entry/exit signals are also posted. All records are archived in [`records/`](records/). Actual records, not backtests. Not investment advice, no guaranteed returns.
